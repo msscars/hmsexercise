@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <AssemblyName>Hms.Exercise.Domain</AssemblyName>
+    <RootNamespace>Hms.Exercise.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>

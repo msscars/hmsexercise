@@ -1,0 +1,13 @@
+D:\Repos\Private\Hms.Exercise\src\App.Console\bin\Debug\netcoreapp3.1\Hms.Exercise.App.Console.exe
+D:\Repos\Private\Hms.Exercise\src\App.Console\bin\Debug\netcoreapp3.1\Hms.Exercise.App.Console.deps.json
+D:\Repos\Private\Hms.Exercise\src\App.Console\bin\Debug\netcoreapp3.1\Hms.Exercise.App.Console.runtimeconfig.json
+D:\Repos\Private\Hms.Exercise\src\App.Console\bin\Debug\netcoreapp3.1\Hms.Exercise.App.Console.runtimeconfig.dev.json
+D:\Repos\Private\Hms.Exercise\src\App.Console\bin\Debug\netcoreapp3.1\Hms.Exercise.App.Console.dll
+D:\Repos\Private\Hms.Exercise\src\App.Console\bin\Debug\netcoreapp3.1\Hms.Exercise.App.Console.pdb
+D:\Repos\Private\Hms.Exercise\src\App.Console\obj\Debug\netcoreapp3.1\App.Console.csprojAssemblyReference.cache
+D:\Repos\Private\Hms.Exercise\src\App.Console\obj\Debug\netcoreapp3.1\App.Console.AssemblyInfoInputs.cache
+D:\Repos\Private\Hms.Exercise\src\App.Console\obj\Debug\netcoreapp3.1\App.Console.AssemblyInfo.cs
+D:\Repos\Private\Hms.Exercise\src\App.Console\obj\Debug\netcoreapp3.1\App.Console.csproj.CoreCompileInputs.cache
+D:\Repos\Private\Hms.Exercise\src\App.Console\obj\Debug\netcoreapp3.1\Hms.Exercise.App.Console.dll
+D:\Repos\Private\Hms.Exercise\src\App.Console\obj\Debug\netcoreapp3.1\Hms.Exercise.App.Console.pdb
+D:\Repos\Private\Hms.Exercise\src\App.Console\obj\Debug\netcoreapp3.1\App.Console.genruntimeconfig.cache
